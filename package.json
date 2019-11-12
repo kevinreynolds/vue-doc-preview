@@ -1,6 +1,6 @@
 {
-  "name": "vue-doc-preview",
-  "version": "0.3.1",
+  "name": "@ad/vue-doc-preview",
+  "version": "0.3.2",
   "description": "A vue document preview component",
   "keywords": [
     "document",
@@ -8,14 +8,14 @@
     "preview"
   ],
   "main": "./dist/vueDocPreview.umd.min.js",
-  "author": "cainsyake(cainsyake@qq.com)",
+  "author": "Kevin Reynolds",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cainsyake/vue-doc-preview.git"
+    "url": "git+https://github.com/kevinreynolds/vue-doc-preview.git"
   },
   "bugs": {
-    "url": "https://github.com/cainsyake/vue-doc-preview/issues",
-    "email": "cainsyake@qq.com"
+    "url": "https://github.com/kevinreynolds/vue-doc-preview/issues",
+    "email": "kevin@artisans.digital"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -64,5 +64,9 @@
     "README-CN.md",
     "README.md"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/kevinreynolds/vue-doc-preview#readme",
+  "directories": {
+    "test": "test"
+  }
 }
